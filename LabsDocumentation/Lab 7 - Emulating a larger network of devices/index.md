@@ -61,6 +61,8 @@ In the Device Details screen, press the **Device Twin** button to view the Devic
 
 ![Azure Portal Device Twin Information](./images/consoledevicetwininfo.png)
 
+# Next Up
+[Lab 8 - Visualizing Data and Setting Up Alerts](../Lab%208%20-%20Visualizing%20Data%20and%20Setting%20Up%20Alerts/index.md)
 
 
 

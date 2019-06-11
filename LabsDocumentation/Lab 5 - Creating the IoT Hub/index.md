@@ -14,3 +14,6 @@
 
 * Click the *Review + Create* button, and on the review screen, click the *Create* button to create the IoT Hub.
 * Deployment of the IoT Hub in Azure will take a few minutes.
+
+# Next Up
+[Lab 6 - Sending telemetry data to the IoT Hub](../Lab%206%20-%20Sending%20telemetry%20data%20to%20the%20IoT%20Hub/index.md)

@@ -46,3 +46,6 @@ Verify data is flowing to the IoT Hub by accessing Device Explorer, and selectin
 
 ## Understanding the code
 Take a moment to review the code included in the project. The MCP3008 class is exactly the same as in the previous lab. In **StartupTask.cs** you will notice additional code in the *Timer_Tick* method that creates a JSON payload based on the data read from the sensor and sends it along to the IoT Hub.
+
+# Next Up
+[Lab 7 - Emulating a larger network of devices](../Lab%207%20-%20Emulating%20a%20larger%20network%20of%20devices/index.md)

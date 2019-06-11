@@ -32,3 +32,6 @@ In the project, there is a class called **MCP3008**. This class contains the log
 
 **MainPage.xaml** and **MainPage.xaml.cs** contains the UI logic for the sensor readings. It contains a timer that starts when the **Start Sampling** button is pressed. On each *tick* the application will obtain the water level sensor reading through SPI0, through the ADC on channel 0 and report it on the label on the MainPage screen.
 
+# Next Up
+[Lab 5 - Creating the IoT Hub](../Lab%205%20-%20Creating%20the%20IoT%20Hub/index.md)
+

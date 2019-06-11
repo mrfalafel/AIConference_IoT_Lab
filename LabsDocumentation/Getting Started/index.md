@@ -22,3 +22,9 @@ URL: https://github.com/codingbandit/IoTLabs.git
 # Screen Requirements
 Usage of a screen will only be necessary for initial setup and Lab 4.
 
+# Next Up 
+
+[Lab 1 - Creating the Operating System Image](../Lab%201%20-%20Creating%20the%20Operating%20System%20Image/index.md)
+
+
+

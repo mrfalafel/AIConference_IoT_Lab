@@ -29,4 +29,6 @@ Once the device has been setup, the default application for Windows IoT Core wil
 
 ![Windows IoT Core Dashboard](./images/IoTCoreDefaultApp.jpg)
 
+# Next Up
+[Lab 3 - Wiring the Water Level Sensor Solution](../Lab%203%20-%20Wiring%20the%20Water%20Level%20Sensor%20Solution/index.md)
 

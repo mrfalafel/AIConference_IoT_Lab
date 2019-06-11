@@ -26,6 +26,6 @@ T.B.D. until we decide which screen we are going with
 ## Plug in the Keyboard and optional Mouse  
 Utilize the on-board USB ports to plug in a keyboard and mouse to aid in navigating the Windows IoT Core operating system on the device.
 
-TODO: Image of the physical device.
-
+# Next Up
+[Lab 2 - Configuring the Device](../Lab%202%20-%20Configuring%20the%20Device/index.md)
 

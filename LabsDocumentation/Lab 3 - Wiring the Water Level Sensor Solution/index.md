@@ -19,3 +19,6 @@
 * Water Level Sensor GND(-) pin to Breadboard Ground Rail (black jumper)
 * Water Level Sensor VDD(+) pin to Breadboard Power Rail (red jumper)
 * Water Level OUT/Signal (S) pin to MCP3008 Pin 1 CH0
+
+# Next Up
+[Lab 4 - Creating the UWP Application](../Lab%204%20-%20Creating%20the%20UWP%20Application/index.md)

@@ -1,4 +1,7 @@
 # Wiring the Water Level Sensor Solution
+## Before you start
+Please shut down the Raspberry Pi before beginning your wiring. There are two ways of doing this, first is by accessing the **My Devices** button in the Windows IoT Core Dashboard application, right-clicking your device, and selecting *Shutdown*. Alternatively, you can press the *Gear* button at the bottom of the screen on the Raspberry Pi, and select the *Power Options* item - there you will find the option to shut down.
+
 ## Raspberry Pi 3 Windows IoT Core Pinout Diagram
 ![Raspberry Pi Pinout Diagram](./images/rpi_pinout.png)
 ## MCP3008 Pinout Diagram

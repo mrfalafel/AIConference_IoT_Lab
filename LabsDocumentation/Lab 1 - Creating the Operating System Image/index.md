@@ -13,14 +13,14 @@ Download the IoT Dashboard application
 * Provide and confirm a password for the *Administrator* user of the Raspberry Pi - please make it something that you will remember.
 * Ensure the WiFi connection box is checked and select our lab network WiFi connection. Please note, the IoT Dashboard application sometimes has trouble identifying WiFi networks, rest assured you can set this up later on the device itself. If no networks are displayed, simply ignore this step.
 * Accept the license terms
-* Click the download and install - the image will download and install on the SD card. A Command window will appear to complete the installation. At any time multiple File Explorer windows may open, simply close them. If prompted to format a drive in these File explorer windows, select cancel. This is due to a bug that Microsoft and Microsoft is aware - it has to do with the SD card being partitioned into multiple drives to support Microsoft IoT Core.
+* Click the download and install - the image will download and install on the SD card. A Command window will appear to complete the installation. At any time multiple File Explorer windows may open, simply close them. If prompted to format a drive in these File explorer windows, select cancel. This is due to a bug and Microsoft is aware - it has to do with the SD card being partitioned into multiple drives to support Microsoft IoT Core.
 
 ![Setting up a new device](./images/IoTDashboardSetUpANewDevice.png)
 
 ![Installation Console Window](./images/InstallationConsoleWindow.png)
 
 ## Install the Screen
-T.B.D. until we decide which screen we are going with
+Follow your screen's instructions.
 
 
 ## Plug in the Keyboard and optional Mouse  

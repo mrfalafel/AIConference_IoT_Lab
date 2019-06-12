@@ -5,6 +5,8 @@ Windows IoT Core running on the Raspberry Pi allows for UWP applications to run 
 Open the WaterLevelSensor/AnalogReader/AnalogReader.sln solution file in Visual Studio. From the Debug toolbar, select **Remote Machine**, and enter the IP address of the device that you'd like to deploy to. 
 Ensure the build is set to Debug, and the CPU type to ARM, then Press F5 to run the application.
 
+Alternatively, you can set Remote Machine details by right-clicking the project file and accessing the *Debug* tab - then entering the IP address. The IP address is found on the IoT Dashboard *My Devices* tab. 
+
 ![Run Settings](./images/DebugSettings.png)
 
 ![Set Remote Machine Connection](./images/SetRemoteMachineConnection.png)

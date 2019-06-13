@@ -19,6 +19,36 @@ Download the IoT Dashboard application
 
 ![Installation Console Window](./images/InstallationConsoleWindow.png)
 
+## (Alternative) Installing image manually from the command prompt
+(obtained from [Microsoft Documentation](https://docs.microsoft.com/en-us/windows/iot-core/connect-your-device/dism)) 
+
+* Open an administrator command prompt and navigate to the folder containing your local flash.ffu file.
+* Plug-in your SD card to your machine.
+* Find the disk number that your SD card is on your computer. This will be used when the image is applied in the next step. To do this, you can use the diskpart utility. Run the following commands:
+
+```
+ c:\FFUFolder>diskpart
+
+  DISKPART>list disk
+```
+It should list all the storage devices attached to the computer.
+
+![diskpartlistdisk.png](./images/diskpartlistdisk.png)
+
+Exit diskpart by typing *exit*
+
+```
+DISKPART>exit
+```
+
+* Using the administrator command prompt, apply the image to your SD card by running the following command (be sure to replace PhysicalDriveN with the value you found in the previous step, for example, in this case SD card is disk number 4, so we will use /ApplyDrive:\\.\PhysicalDrive4 below)
+
+```
+dism.exe /Apply-Image /ImageFile:"[FULLPATH]\flash.ffu" /ApplyDrive:\\.\PhysicalDriveN /SkipPlatformCheck 
+```
+
+* Click on the "Safely Remove Hardware" icon in your task tray and select your USB SD card reader to safely remove it from the system. Failing to do this can cause corruption of the image.
+
 ## Install the Screen
 Follow your screen's instructions.
 

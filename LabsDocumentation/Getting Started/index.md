@@ -24,7 +24,9 @@ Usage of a screen will only be necessary for initial setup and Lab 4.
 
 # Rundown of downloads
 [IoT Dashboard Application](https://docs.microsoft.com/en-us/windows/iot-core/downloads)
+
 [Azure Device Explorer](https://aka.ms/aziotdevexp)
+
 [Windows IoT Core Project Templates](https://marketplace.visualstudio.com/items?itemName=MicrosoftIoT.WindowsIoTCoreProjectTemplatesforVS15)
 
 # Next Up 

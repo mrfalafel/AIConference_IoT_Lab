@@ -22,6 +22,11 @@ URL: https://github.com/codingbandit/IoTLabs.git
 # Screen Requirements
 Usage of a screen will only be necessary for initial setup and Lab 4.
 
+# Rundown of downloads
+[IoT Dashboard Application](https://docs.microsoft.com/en-us/windows/iot-core/downloads)
+[Azure Device Explorer](https://aka.ms/aziotdevexp)
+[Windows IoT Core Project Templates](https://marketplace.visualstudio.com/items?itemName=MicrosoftIoT.WindowsIoTCoreProjectTemplatesforVS15)
+
 # Next Up 
 
 [Lab 1 - Creating the Operating System Image](../Lab%201%20-%20Creating%20the%20Operating%20System%20Image/index.md)
